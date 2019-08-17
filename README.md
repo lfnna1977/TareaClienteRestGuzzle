@@ -37,6 +37,7 @@ composer install
 para regenerar las librerias registradas en el composer.json, en este caso la de Guzzle
 
 La URL de acceso al cliente es: [http://localhost/cliente-rest](http://localhost/cliente-rest)
+La del servidor [http://uasb-api.rootcode.com.bo/lnavarro/cliente-rest/](http://uasb-api.rootcode.com.bo/lnavarro/cliente-rest/)
 
 Los usuarios disponibles son:
 * Usuario: admin, contraseña: admin
